@@ -556,7 +556,7 @@ h2.brandig-style {
 }
 
 section.section-annaunce-always {
-  background: url("/img/bg.png");
+  background: url("img/bg.png");
   padding: 3rem 0rem;
 
   .btn-cmn {
@@ -659,29 +659,29 @@ section.section-annaunce-always {
 }
 
 .each-single-box h2::before {
-  content: url(/img/simple.png);
+  content: url(img/simple.png);
   margin-top: -75px;
   display: block;
 }
 
 .s-s-two h2::before {
-  content: url(/img/consultancy.png);
+  content: url(img/consultancy.png);
 }
 
 .s-s-three h2::before {
-  content: url(/img/deadline.png);
+  content: url(img/deadline.png);
 }
 
 .each-single-box.s-s-four h2::before {
-  content: url(/img/solutions.png);
+  content: url(img/solutions.png);
 }
 
 .s-s-five h2::before {
-  content: url(/img/deadline.png);
+  content: url(img/deadline.png);
 }
 
 .s-s-six h2::before {
-  content: url(/img/consultancy.png);
+  content: url(img/consultancy.png);
 }
 
 
@@ -1436,7 +1436,6 @@ footer {
 
 
 }
-
 
 @media (max-width: 1330px) {
   header.home nav .logo {
